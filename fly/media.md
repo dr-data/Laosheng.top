@@ -1,6 +1,8 @@
 Hong Kong and International Cloud Media ☁
 ================
+大萌	2026
 <base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/fly/media" />
 
 　　Here is a curated directory of media outlets from Hong Kong and leading international sources, organized similarly to the Cloud Media series. This directory includes news outlets, broadcasting stations, and other journalistic media for reliable news access.
 

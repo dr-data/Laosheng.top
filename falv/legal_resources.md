@@ -1,6 +1,8 @@
 Hong Kong Legal Resources and Reference Materials ⚖️
 ================
+大萌	2026
 <base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/falv/legal_resources" />
 
 　　This page provides a curated list of official legal resources, judiciary information, and comprehensive reference materials for Hong Kong. It aims to serve legal professionals, researchers, and students by linking to primary sources, databases, and library collections, including those from the University of Hong Kong (HKU) and Hong Kong Public Libraries.
 

@@ -1,6 +1,8 @@
 Hong Kong Government and Statutory Bodies 🕘
 ================
+大萌	2026
 <base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/fuwu/government" />
 
 　　Here is a curated directory of the Hong Kong Special Administrative Region (HKSAR) Government structure, including policy bureaus, departments, and key statutory bodies. This models the structure of the central government directories, adapted for Hong Kong.
 
@@ -83,7 +85,7 @@ These organizations are established by statute to perform specific public functi
   Regulates the securities and futures markets.
 3 <b>[Hospital Authority (HA)](https://www.ha.org.hk)</b> 医院管理局
   Manages public hospitals and clinics.
-4 <b>[Hong Kong Housing Authority (HA)](https://www.housingauthority.gov.hk)</b> 香港房屋委员会
+4 <b>[Hong Kong Housing Authority (HKHA)](https://www.housingauthority.gov.hk)</b> 香港房屋委员会
   Develops and implements public housing programs.
 5 <b>[Mandatory Provident Fund Schemes Authority (MPFA)](https://www.mpfa.org.hk)</b> 强制性公积金计划管理局
   Regulates MPF schemes.

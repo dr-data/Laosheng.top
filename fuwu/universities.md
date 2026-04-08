@@ -1,6 +1,8 @@
 Hong Kong Universities and Higher Education Institutions 👨‍🎓
 ================
+大萌	2026
 <base target="_blank">
+<link rel="canonical" href="https://Laosheng.top/fuwu/universities" />
 
 　　Here is a comprehensive directory of universities and higher education institutions in Hong Kong, modeled after the Chinese universities directory. It classifies universities into UGC-funded universities (publicly funded) and self-financed/private institutions.
 

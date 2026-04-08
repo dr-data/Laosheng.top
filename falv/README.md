@@ -20,6 +20,8 @@
 	包含县以上行政区划、设法院的行政管理区 ≈ 千县公检法。网址仍在添加中…
 	+ 中央有关部门集，各行各界全国统一咨询和投诉电话，请往本站[【服务】](../fuwu)系列
 
++	./legal_resources　⚖️ [香港法律资源](legal_resources){:target="_top"}，立法、法院、政府与参考资料库。（香港）
+
 <div align="right">
 ⏩老生常谈/<a href="https://Laosheng.top/falv" target="_top" title="大萌望海楼">【法律】</a>系列
 </div>
