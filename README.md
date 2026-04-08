@@ -16,6 +16,7 @@
   + /falv/duben　📚 [大萌法律读本](falv/duben)，对重点法律提供高质量文本，适合打印🖨与电子墨水屏幕。
   + /falv/duben1　[读本1](falv/duben1)，八部大法：民法典、刑法全文、行政诉讼法等
   + /falv/[fawang](falv/fawang)　全国法院一张网，中国政法区划集 (2025新上线)
+  + /falv/[legal_resources](falv/legal_resources)　⚖️ 香港法律资源及参考资料 (Hong Kong Legal Resources)
 
 /fly/dir ⠀[【云媒体】系列](fly/dir)，找到有源新闻。　⛅ 全球免费云媒体
 
@@ -23,6 +24,7 @@
   + /fly/caijing　💹 中文[财经云](fly/caijing)媒体，全国行业数字报（新上线）
   + /fly/waixuan　🔥 中央[外宣云媒体](fly/waixuan ){:target="_blank"}，地方外宣ICC：中国之声、ChinaDaily、《北京周报》、解放军微博阵列……1.0版发布
   + /fly/bowu　地大物博看中国，收录国家一级[博物馆](fly/bowu) 🏺、红色旅游经典景区……
+  + /fly/[media](fly/media)　📰 香港及国际云媒体 (Hong Kong and International Cloud Media)
 
 /fuwu ⠀[【服务】系列](fuwu)，找到有关部门。　🕘 有关部门服务网
 
@@ -30,6 +32,8 @@
   + /fuwu/yangqi　🧧 [央企股票](fuwu/yangqi)全家福　央企旗下400余家上市公司的官网、股票代码、行情页面
   + /fuwu/jiuye 👔 各地人才[就业网](fuwu/jiuye)　各省地市的人社局、人才市场、住房租房……（收录中）
   + /fuwu/qianxian　📑 [中国千县地名网](fuwu/qianxian)　全国近三千个县区的政府网址，按区划代码排序，2024版
+  + /fuwu/[universities](fuwu/universities)　👨‍🎓 香港高等院校名录 (Hong Kong Universities)
+  + /fuwu/[government](fuwu/government)　🕘 香港政府及法定机构 (Hong Kong Government and Statutory Bodies)
   + 千县网第二页 ……
 
 /ydyl/dir ⠀[【一带一路】系列](ydyl/dir)，找到全世界。　💃 一带一路民间站
