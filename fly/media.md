@@ -1,8 +1,6 @@
 Hong Kong and International Cloud Media ☁
 ================
-大萌	2026
 <base target="_blank">
-<link rel="canonical" href="https://Laosheng.top/fly/media" />
 
 　　Here is a curated directory of media outlets from Hong Kong and leading international sources, organized similarly to the Cloud Media series. This directory includes news outlets, broadcasting stations, and other journalistic media for reliable news access.
 
@@ -16,45 +14,45 @@ Hong Kong and International Cloud Media ☁
 
 <div align="right" id="hktv"><a href="#tupu" target="_top">↑ Top</a></div>
 
-Hong Kong Broadcasters & TV (香港电视及广播) 📺
+Hong Kong Broadcasters & TV (香港電視及廣播) 📺
 ------------
 
-1 <b>[Radio Television Hong Kong (RTHK)](https://www.rthk.hk)</b> 香港电台
+1 <b>[Radio Television Hong Kong (RTHK)](https://www.rthk.hk)</b> 香港電臺
   The public broadcasting service in Hong Kong.
-2 <b>[Television Broadcasts Limited (TVB)](https://www.tvb.com)</b> 无线电视
+2 <b>[Television Broadcasts Limited (TVB)](https://www.tvb.com)</b> 無線電視
   The largest commercial television broadcaster in Hong Kong.
-3 <b>[ViuTV](https://viu.tv)</b> 香港电视娱乐
+3 <b>[ViuTV](https://viu.tv)</b> 香港電視娛樂
   A major free-to-air commercial television channel.
-4 <b>[HOY TV](https://hoy.tv)</b> 奇妙电视
+4 <b>[HOY TV](https://hoy.tv)</b> 奇妙電視
   A free-to-air commercial television channel.
 5 <b>[Now TV](https://nowtv.hkcsl.com)</b>
   Pay-TV service offering news and entertainment.
-6 <b>[Hong Kong Cable Television (Cable TV)](http://www.cabletv.com.hk)</b> 有线电视
+6 <b>[Hong Kong Cable Television (Cable TV)](http://www.cabletv.com.hk)</b> 有線電視
   Pay-TV service providing news and various channels.
-7 <b>[Commercial Radio Hong Kong (CRHK)](https://www.881903.com)</b> 商业电台
+7 <b>[Commercial Radio Hong Kong (CRHK)](https://www.881903.com)</b> 商業電臺
   A leading commercial radio station in Hong Kong.
-8 <b>[Metro Broadcast](https://www.metroradio.com.hk)</b> 新城电台
+8 <b>[Metro Broadcast](https://www.metroradio.com.hk)</b> 新城電臺
   Another major commercial radio station.
 
 
 <div align="right" id="hknews"><a href="#tupu" target="_top">↑ Top</a></div>
 
-Hong Kong Newspapers & News Outlets (香港报纸及新闻网) 📰
+Hong Kong Newspapers & News Outlets (香港報紙及新聞網) 📰
 ------------
 
-1 <b>[South China Morning Post (SCMP)](https://www.scmp.com)</b> 南华早报
+1 <b>[South China Morning Post (SCMP)](https://www.scmp.com)</b> 南華早報
   The premier English-language newspaper in Hong Kong.
-2 <b>[Ming Pao (明报)](https://news.mingpao.com)</b>
+2 <b>[Ming Pao (明報)](https://news.mingpao.com)</b>
   A respected Chinese-language daily newspaper.
-3 <b>[Sing Tao Daily (星岛日报)](https://std.stheadline.com)</b>
+3 <b>[Sing Tao Daily (星島日報)](https://std.stheadline.com)</b>
   A prominent Chinese-language daily newspaper.
-4 <b>[Hong Kong Economic Times (HKET) (香港经济日报)](https://inews.hket.com)</b>
+4 <b>[Hong Kong Economic Times (HKET) (香港經濟日報)](https://inews.hket.com)</b>
   A leading financial and economic newspaper.
-5 <b>[Hong Kong Economic Journal (HKEJ) (信报财经新闻)](https://www.hkej.com)</b>
+5 <b>[Hong Kong Economic Journal (HKEJ) (信報財經新聞)](https://www.hkej.com)</b>
   A daily newspaper focused on economics, finance, and politics.
-6 <b>[The Standard](https://www.thestandard.com.hk)</b> 英文虎报
+6 <b>[The Standard](https://www.thestandard.com.hk)</b> 英文虎報
   A free English-language daily newspaper.
-7 <b>[Oriental Daily News (东方日报)](https://orientaldaily.on.cc)</b>
+7 <b>[Oriental Daily News (東方日報)](https://orientaldaily.on.cc)</b>
   A widely read Chinese-language daily newspaper.
 8 <b>[HK01 (香港01)](https://www.hk01.com)</b>
   A popular online news portal.
@@ -64,7 +62,7 @@ Hong Kong Newspapers & News Outlets (香港报纸及新闻网) 📰
 
 <div align="right" id="intltv"><a href="#tupu" target="_top">↑ Top</a></div>
 
-International Broadcasters (国际广播及电视) 📺
+International Broadcasters (國際廣播及電視) 📺
 ----------------
 
 1 <b>[BBC News](https://www.bbc.com/news)</b> (UK) 🇬🇧
@@ -85,7 +83,7 @@ International Broadcasters (国际广播及电视) 📺
 
 <div align="right" id="intlnews"><a href="#tupu" target="_top">↑ Top</a></div>
 
-International Newspapers & News Agencies (国际报纸及通讯社) 📰
+International Newspapers & News Agencies (國際報紙及通訊社) 📰
 ----------------
 
 1 <b>[Reuters](https://www.reuters.com)</b> (Global) 🌐

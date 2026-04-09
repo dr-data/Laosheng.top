@@ -1,8 +1,6 @@
 Hong Kong Legal Resources and Reference Materials ⚖️
 ================
-大萌	2026
 <base target="_blank">
-<link rel="canonical" href="https://Laosheng.top/falv/legal_resources" />
 
 　　This page provides a curated list of official legal resources, judiciary information, and comprehensive reference materials for Hong Kong. It aims to serve legal professionals, researchers, and students by linking to primary sources, databases, and library collections, including those from the University of Hong Kong (HKU) and Hong Kong Public Libraries.
 
@@ -16,7 +14,7 @@ Hong Kong Legal Resources and Reference Materials ⚖️
 
 <div align="right" id="primary"><a href="#tupu" target="_top">↑ Top</a></div>
 
-Primary Legal Sources (法定资料)
+Primary Legal Sources (法定資料)
 ------------
 
 1 <b>[Hong Kong e-Legislation (HKeL)](https://www.elegislation.gov.hk)</b>
@@ -29,7 +27,7 @@ Primary Legal Sources (法定资料)
 
 <div align="right" id="judiciary"><a href="#tupu" target="_top">↑ Top</a></div>
 
-Judiciary & Courts (香港司法机构) 🏛️
+Judiciary & Courts (香港司法機構) 🏛️
 ------------
 
 1 <b>[Hong Kong Judiciary Official Website](https://www.judiciary.hk)</b>
@@ -42,7 +40,7 @@ Judiciary & Courts (香港司法机构) 🏛️
 
 <div align="right" id="gov"><a href="#tupu" target="_top">↑ Top</a></div>
 
-Government & Policy (政府及立法会)
+Government & Policy (政府及立法會)
 ----------------
 
 1 <b>[Department of Justice (DoJ)](https://www.doj.gov.hk)</b>
@@ -57,7 +55,7 @@ Government & Policy (政府及立法会)
 
 <div align="right" id="reference"><a href="#tupu" target="_top">↑ Top</a></div>
 
-Reference Materials & Libraries (参考资料及图书馆) 📚
+Reference Materials & Libraries (參考資料及圖書館) 📚
 ----------------
 
 Extensive collections for historical and contemporary legal and public records.
